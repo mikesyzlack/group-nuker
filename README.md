@@ -3,7 +3,7 @@
 ## Installation
 Clone the repository:
 ```
-git clone https://github.com/mikesyzlack/manhattan-bot.git
+git clone https://github.com/mikesyzlack/group-nuker.git
 ```
 
 Open directory:
