@@ -7,7 +7,7 @@ git clone https://github.com/mikesyzlack/group-nuker.git
 ```
 
 Open directory:
-`cd manhattan-bot`
+`cd group-nuker`
 
 Run the commands to generate a python virtual environment so it doesnt affect your system python installation:
 ```
